@@ -9,4 +9,4 @@ python -m black ./test/tests/
 
 # TODO: Add junitxml output and have something consume it
 # 2 parallel max b/c race condition with docker fixture (I think?)
-py.test -vv -n 2 ./test/tests/
+py.test --color=yes -vv -n 2 ./test/tests/
