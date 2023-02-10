@@ -5,7 +5,7 @@
 </p>
 <!-- Delete above HTML and insert markdown for dockerhub : ![Pi-hole](https://pi-hole.github.io/graphics/Vortex/Vortex_with_text.png) -->
 
-## Upgrade Notes
+## Upgrade Notes 
 
 - **Using Watchtower? See the [Note on Watchtower](#note-on-watchtower) at the bottom of this readme**
 
